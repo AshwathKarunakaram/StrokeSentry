@@ -1,0 +1,4 @@
+data/
+kaggle.json
+stroke_model.h5
+stroke_model.tflite
