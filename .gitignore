@@ -2,3 +2,8 @@ data/
 kaggle.json
 stroke_model.h5
 stroke_model.tflite
+dysarthria_model/torgo-audio/
+dysarthria_model/classifier.pth
+dysarthria_model/classifier.tflite
+gemma-3n-transformers-gemma-3n-e2b-it-v2/
+gemma-3n-transformers-gemma-3n-e4b-it-v2
