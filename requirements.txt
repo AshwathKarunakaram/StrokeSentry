@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+requests
+pydub
+Pillow
+numpy
+librosa
+soundfile
+pyttsx3
