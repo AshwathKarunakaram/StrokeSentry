@@ -7,3 +7,6 @@ numpy
 librosa
 soundfile
 pyttsx3
+streamlit-audiorecorder
+matplotlib
+
